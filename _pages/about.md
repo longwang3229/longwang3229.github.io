@@ -38,6 +38,16 @@ Use the links above to learn more about our research, team and opportunities. Fo
 
 ## My Hugging Face Space Demo
 
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/latest/gradio.js"></script>
+
+<gradio-app 
+  src="https://huggingface.co/spaces/longwang3229/longwang3229"
+  theme_mode="light"
+  style="width: 100%; height: 700px; border: none;">
+</gradio-app>
+
+## My Hugging Face Space Demo
+
 Check out my AI demo on Hugging Face:
 
 <a href="https://huggingface.co/spaces/longwang3229/longwang3229" 
