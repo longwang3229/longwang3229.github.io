@@ -36,8 +36,13 @@ Use the links above to learn more about our research, team and opportunities. Fo
 
 欢迎浏览页面了解我们的研究方向、团队成员与合作机会。如需咨询，请发邮件至 <hangxiao@ln.edu.hk>，或在[哔哩哔哩](https://space.bilibili.com/398676911)私信联系我们。
 
-<iframe src="https://huggingface.co/spaces/longwang3229/longwang3229" 
-        width="100%" 
-        height="700px" 
-        frameborder="0"></iframe>
+## My Hugging Face Space Demo
+
+Check out my AI demo on Hugging Face:
+
+<a href="https://huggingface.co/spaces/longwang3229/longwang3229" 
+   target="_blank" 
+   class="btn btn-primary">
+  🚀 Open Hugging Face Space
+</a>
 
